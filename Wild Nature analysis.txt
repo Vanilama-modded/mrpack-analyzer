@@ -1,0 +1,2483 @@
+=== MINECRAFT MODPACK ANALYSIS ===
+
+[METADATA]
+name: Wild Nature
+version: 
+author: 
+description: 
+
+[GAME INFORMATION]
+versions:
+
+edition:
+  java: True
+  bedrock: False
+  loader: forge
+  confidence: high
+dependencies:
+  forge: 47.4.1
+  minecraft: 1.20.1
+
+[STATISTICS]
+total_size: 337476066
+file_count: 175
+mod_count: 166
+datapack_count: 9
+resourcepack_count: 0
+shader_count: 0
+
+[COMPONENTS]
+
+MODS:
+  path: mods/DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar
+  hash:
+    sha1: 57a3a0105c51fdeb7d4a79a35cd8a16586917cf4
+    sha512: 14f5548cffa24fabdcfce6626fc813db42e28350a126833a54e1c54e13e6b393e232b5a0d55fe6bc6f7e273061adaade67f8a8bbee9503cdaf869c28db0995b7
+  size: 17830252
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/uCdwusMi/versions/vSDePnsB/DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/particular-1.20.1-Forge-1.2.2.jar
+  hash:
+    sha512: bd306db1474c85fbf2d2edc305b8958c3d9d473a44297c136c45a76136725b728ea23bf1e61bce5aae9766471ec9d9681c71205555462af6aa81306cf3d23935
+    sha1: 2334d3892adc999b76849872c4d9a2373cd9b9fd
+  size: 419928
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/pYFUU6cq/versions/g1NAbfoM/particular-1.20.1-Forge-1.2.2.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/resourcefullib-forge-1.20.1-2.1.29.jar
+  hash:
+    sha512: 8dbe951d431545a7d18081a8b11a52a248e6d8ff9862ae6462b0f5a6f57ff523af12704c3adb071ae99a7c5c1dd895bd7875dea59f9c4956c1597a668b6e8820
+    sha1: 6fc590a7c56a720fec57e290cbb0a106efbb3ffa
+  size: 432753
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Drip Sounds-0.5.1+1.20.4-Forge.jar
+  hash:
+    sha512: 814da8f44edf9952c10d4fb6e10ed991960cb5b2da73d56ca59913c199cc92b6f43789b935b50e3c878759e58ae0ad0dc7054439507ba5beb217fbfcc4870bba
+    sha1: c01475db3aa03cc48fae944114cb29512fd12a41
+  size: 58955
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/T8MMXTpr/versions/eOBbLhlz/Drip%20Sounds-0.5.1%2B1.20.4-Forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/DiagonalWindows-v8.1.5-1.20.1-Forge.jar
+  hash:
+    sha512: dd05d1ae6286b9c6a03898e5d13ebb8cfdaf812792bcf1d151279f24b46f932e1aec412141f05bc8f6efe15bf4d4b388ce27e66c21836fdd8ce64472957a0fd8
+    sha1: 6f5be5f5491f63d84f15461fb5d877ba4d3870cd
+  size: 183094
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/oOi0CKes/versions/IpxUHCn0/DiagonalWindows-v8.1.5-1.20.1-Forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Ksyxis-1.3.3.jar
+  hash:
+    sha1: 2fff901eeb095c0a17ee16590e1be76c968224fc
+    sha512: e754d8709d4a4c4ea894dda7bc5c3b017c8baddaaaa67b2319881d52dcce5ecd12d626087d55008de5eb942b02cf9e2099c71602296c5b63ea75abb2452b0bc7
+  size: 28484
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/2ecVyZ49/versions/ueN87SNs/Ksyxis-1.3.3.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Geophilic v3.4.1 f15-71.mod.jar
+  hash:
+    sha512: 1dbe8c0fc76b802728d7b22585735da73e6e8c96932e35758243c24249b19ce932aaa740cde849eb73848639121548b24d9586106c96fabbe6fbb73f23c09e24
+    sha1: 306010df473a8ae16c9b13fb4fc5d6326f2a8339
+  size: 753719
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/hl5OLM95/versions/P4R9W6RV/Geophilic%20v3.4.1%20f15-71.mod.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Terralith_1.20.x_v2.5.4.jar
+  hash:
+    sha1: 79e1409b8db4ce86df9d6d6730f09c4bd8860a30
+    sha512: 885e171d8b34aae7e142f082d0364285ec5a8e8342f11c60d341f7a94083d5a42c4e30612fe4f9f64d57b484396a3dff3a224e2a2497d4ced8d22f2ad6cd561d
+  size: 3156901
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/blueprint-1.20.1-7.1.3.jar
+  hash:
+    sha1: fdf9cb568546e80485ea4402a39656ed9acfa991
+    sha512: 9665cb45ae78ec59352b195d65a44d6573c1ad65749a6546054e0b8032836d939526dd1df6521034cd2bd34e6559e785d20404df3130050b8e763a8ccfe06534
+  size: 1151213
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/VsM5EDoI/versions/xtEwbO0X/blueprint-1.20.1-7.1.3.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/BotanyPots-Forge-1.20.1-13.0.41.jar
+  hash:
+    sha512: 8b6afabb57b2d5d07d8440bbd8bf5846530cbd18a520c25d030c2d1b742c71342aa6a8133c24346a45c530b15613aa5e88d7d5e6af553e0291603e06fe241741
+    sha1: 0b536c6238a1708a6b98cbc84df0f01845036a36
+  size: 1056776
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/U6BUTZ7K/versions/9bH71LWw/BotanyPots-Forge-1.20.1-13.0.41.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Botania-1.20.1-448-FORGE.jar
+  hash:
+    sha1: 57f76fd701cfcc6da5e281dd0c221b06ab42e316
+    sha512: 657856fa5f5a539b37695bf0db6bf5fbf39c7e5e47973c15f6eb59d04f079abed27413bb9ff58e23ccf9a3776abbcd989bd2671ae69b32749d00dd41d3af5577
+  size: 12471821
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/pfjLUfGv/versions/19mwqT4M/Botania-1.20.1-448-FORGE.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/ShoulderSurfing-Forge-1.20.1-4.12.0.jar
+  hash:
+    sha1: d873f7f38d3da819aecd2aeed8ed060b7f29a520
+    sha512: 5b8b083b92004a9fa0fb05d7ec8aeac893a452d88632c5359990f6d238947991ceff840abc7d9cdd2a79121c0ebe47cddbd05245a60c333a6dae2546c6d97dba
+  size: 225126
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/kepjj2sy/versions/fbC1e2ja/ShoulderSurfing-Forge-1.20.1-4.12.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/MysticalAgriculture-1.20.1-7.0.20.jar
+  hash:
+    sha512: 92ff2ee31b0e6214ff257d75c5eb9b122fa4da3ca467a17fee130b7679154fdd65bebe6f4a6e5719398f18b2a2e794e09e6c7fee5893d2f75185d2228c1100ab
+    sha1: e7a8947d927c9d6d52fcce4e7663980ca7c6e411
+  size: 2379999
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/C95ReXie/versions/O3dz79wq/MysticalAgriculture-1.20.1-7.0.20.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Butchersdelight beta 1.20.1 2.1.0.jar
+  hash:
+    sha512: c1ad4ca4c369a40b2ae28ee8962a41fac23f88ec417f57a11110ed620405155af2bab3f2279a64327475f25e42f63e992f4667e69bbfbee44742f682df95f393
+    sha1: eefde2b0a35ae4380c131ac083116b8f797afe56
+  size: 3942918
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/B0xSlae0/versions/MPtQu3dj/Butchersdelight%20beta%201.20.1%202.1.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.9.jar
+  hash:
+    sha512: da692a7ff91af7a00267cadbc42126a4e8915582d252b1a9c2024cead50461ada71199f366bcf07c7d640117e4c107f91eeb9638316fd0f96046cf5127bc6131
+    sha1: 0a55f026362b560b3b491328ce6d2812a4f65de7
+  size: 127998
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/g8NOG5OR/versions/eAjtds7a/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.9.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/IntegratedDynamics-1.20.1-1.26.1.jar
+  hash:
+    sha512: e367dc7474071114da91cfd4f42fc199de2ed4e84ac926213063d4eb7e3d66e40c8522aa0bf1eb44c0a8086ffed5a5fe87cb88ffde1cb1437670e6b90b82da06
+    sha1: cc127bf2d01afe4868ee284df2f5ecab40cffb77
+  size: 4124956
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/yYzdQHJI/versions/l4KfCUHz/IntegratedDynamics-1.20.1-1.26.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/XaeroPlus-2.26.11+forge-1.20.1-WM1.39.9-MM25.2.6.jar
+  hash:
+    sha1: e5feb0186819e782ff9b3283c2d3148a6055c31c
+    sha512: fa7636e172a5b205ac82ec932f56ee245c31445901cf67975cea287520780e27c582da5b550154646d9a0b06c092c40f888c3ea148fc7ca0f0d6458fcdbbd602
+  size: 5038574
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/EnPUzSTg/versions/2x2PM3zl/XaeroPlus-2.26.11%2Bforge-1.20.1-WM1.39.9-MM25.2.6.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/architectury-9.2.14-forge.jar
+  hash:
+    sha512: cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7
+    sha1: a52918a500ff421180a1cbd1a0cabee712134ec4
+  size: 580602
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/woodenbucket-1.20.1-2.1.0.0.jar
+  hash:
+    sha1: a0aa2656a5c13f8c6e7283f8a1ab20be52dbea23
+    sha512: cc1b9e4b8d7f05442b53b4d08bca250188969312f41b3f1512e4f4e6976444fd2dfcad75c6a63551a9800d57e663e0dd051e25399de59ed92f1d38810eaef579
+  size: 17221
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/xsNAEIke/versions/t3qLqQGh/woodenbucket-1.20.1-2.1.0.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Resourcify (1.20.1-forge)-1.7.1.jar
+  hash:
+    sha1: 8118a56b0d068624905731bf8cb294e6590bf4b2
+    sha512: 31e9cada2a9a8d3d4dd80c3423ddbede6878bfe25b15fe7285172a16b6ead5e7d570eba82e68c9dcea794183f46dac5ab978ac7bdc0d2906191887ee6d3188af
+  size: 2366927
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/RLzHAoZe/versions/T3WHtZpW/Resourcify%20%281.20.1-forge%29-1.7.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/balm-forge-1.20.1-7.3.30-all.jar
+  hash:
+    sha512: 65ab1c1dae85570ae31ca00bac6f29cae3a7a3cd660b744fb9172dda55c4f3a35e0d2b2a8bf8f6651e204a15056a7940c12cd660564403d07d00599d509c5d00
+    sha1: 3feeff09618e4b897106ab2ca04687f91b7d97a3
+  size: 594985
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/MBAkmtvl/versions/KQwDHwmX/balm-forge-1.20.1-7.3.30-all.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/lootbags-2.0.2.jar
+  hash:
+    sha512: b9b7b1bd5f5b85ab1d13a81ccfcc2dbb4f577a0261b8a89aad169e7faa689be7e15f537e8eadaf606ac497d1d8da0484779b96e73ea0f67d9a000d079575713f
+    sha1: 277496ff2c2be772aa02e95c3ce96865a8c84833
+  size: 428931
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/eE4G2ag6/versions/yJ5BKMXq/lootbags-2.0.2.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/create_ltab-2.7.0.1.jar
+  hash:
+    sha1: cb9457dc948a48164c896cfef450c5a58f2050ae
+    sha512: b3e55afacc76dd08eb8bd763abfb57051383a96f6f09f8b8c32fde2a4923e763ae62c24a605fe047a0abf7f37a89d70bc13312e1f8ab9e3c081a2b8aa5f0c609
+  size: 1165760
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/fUa6OtBG/versions/36dU7IUR/create_ltab-2.7.0.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/MysticalAdaptations-1.20.1-1.0.1.jar
+  hash:
+    sha1: 1bc3c63ba8e1b3aea1fa0f3589dd215d246ac089
+    sha512: 67df31403be22444e8c2b635d929d5458571db3ade2cc8d767a9190d3bfd6173f3a1d5dbed7b1fef4d80772ef67fd488d322ec44c129d2b18a33d1c791467f09
+  size: 135716
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/JuNhazXF/versions/WdCcexbZ/MysticalAdaptations-1.20.1-1.0.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/cosycritters-1.20.1-Forge-0.0.6.jar
+  hash:
+    sha1: 5922c07167440a778241a0efc4f085dbb2573127
+    sha512: fd107f7490c84e941985398b636632f0891ce816e38fa07f98c563f64aa42fa7635e56d30eac6914fe635404c59141b617da02386314f14216ea42955a8195fb
+  size: 62331
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/lOKz1gkH/versions/QSssUVxb/cosycritters-1.20.1-Forge-0.0.6.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Xaeros_Minimap_25.2.6_Forge_1.20.jar
+  hash:
+    sha1: 59386b42346aa909ce8cab98962affd01ecc4f0a
+    sha512: ae2a620829fdbdc1135a543607057c20dab971bba0e955e52abfaa3c1b91bd70f6575d48c831886436393c3c7af50c6c9857953ab8b4540292aa9e9c446fdffa
+  size: 1704662
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/1bokaNcj/versions/k73HMiDN/Xaeros_Minimap_25.2.6_Forge_1.20.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/wakes-1.20.1-Forge-1.0.5.jar
+  hash:
+    sha1: 17793fcdcdc7d83169c1488cce4621fc04bc4987
+    sha512: cd576dcefff4bbc0565db0926e99048f48cee227ef1950357eb4c336856d32280ad1b28b35ce260470f6ed8438a1a5c287cefb23be3edc5c920fa946723a8926
+  size: 191632
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/E0SdeAoH/versions/Wat8yBcW/wakes-1.20.1-Forge-1.0.5.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/YungsApi-1.20-Forge-4.0.6.jar
+  hash:
+    sha512: 7d83d94a90e55a712f6508485c044ff202916e9b9b9166b75177cb8f2eb919543bbbe1547d11c41cfd4763820f934235f47c0b26dd9e89bc1030954afa9fb889
+    sha1: af584b690f5646c6032002b58abc4591beed3833
+  size: 370524
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/sophisticatedcore-1.20.1-1.2.66.997.jar
+  hash:
+    sha1: e890af6b1e02b9a31b8ac2e1dc7d6429c73d73a7
+    sha512: 0dbb48fe7069c2c93ea231a8aa69801542f04b07de518ebf00b5eebcef92cf062a762f27b33d2c411638c39a6a0e013c1096f9255d673b7cd1ae90bfd18c7ce4
+  size: 1325981
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/nmoqTijg/versions/IA9z9LMo/sophisticatedcore-1.20.1-1.2.66.997.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/lootr-forge-1.20-0.7.35.90.jar
+  hash:
+    sha512: 57830390a8d3fb59b0950aa0a422d31e3d18eeff09a77175548876d322e2f395a69a2720d988f256cfdebde26ec54f1cf1e1c35b6b3ae3aea42855906b816421
+    sha1: 919a1e75d8fac3081743c9dcbe6679a28c867ec9
+  size: 457647
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/EltpO5cN/versions/uZTpIy1Z/lootr-forge-1.20-0.7.35.90.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/collective-1.20.1-8.3.jar
+  hash:
+    sha512: 11263db68965bd7d727284ecfd84047d0085c647af1aa8903896946515742ae5ced21cf3b46497dcf5e35ff1f0db646dad2bc330b9c3997cf75b304d34e4f745
+    sha1: ec387c40637a330661d9f4c3e59d93efc17046a2
+  size: 657310
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/e0M1UDsY/versions/P0uRrvF9/collective-1.20.1-8.3.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Corgilib-Forge-1.20.1-4.0.3.3.jar
+  hash:
+    sha1: d16e759524a44d4aeaaeeab15ac2e687175af209
+    sha512: bfebf18e94a13445aa7a7bbc82bf3e92abff5e867d142d8a9e11c3ae3d9f8f77e4436d14d561b0256c1a0ed23ed2111d6be57ed4196ffac5ba11a84e9f43c95f
+  size: 360624
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/ziOp6EO8/versions/Vu79GVBm/Corgilib-Forge-1.20.1-4.0.3.3.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/treeharvester-1.20.1-9.1.jar
+  hash:
+    sha512: eab24be8a6b75ed03dcd9b324acb6f79145839836faa9829546a663e2cc782e4dd49323a9300e832105b02e44dd642b3994d6ad49c6dcc485d6f9f14136cdc15
+    sha1: f0223c38cb72aa9427daf8c88cd360c57f691110
+  size: 82743
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/abooMhox/versions/EQYmDYvI/treeharvester-1.20.1-9.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/moreslabsstairsandwalls-4.0.0.jar
+  hash:
+    sha1: b06f5da00a8673b61d0c79852cbad1d74ba5c121
+    sha512: 6b029263318873294e4edfa9f030b24c8884f9951eb7f89744e45517c28121bacbf8c87f5989b7a72d3b79aa89c4bcd2b6f3c37793151fb5e37e196ff398aae3
+  size: 4604380
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/bdBzXqbS/versions/Mm6RMmgp/moreslabsstairsandwalls-4.0.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/chipped-forge-1.20.1-3.0.7.jar
+  hash:
+    sha1: 25ee2a0846059d8f21d28b94b7e0229b60cb5499
+    sha512: be1871655e213cf488d5049058200e03655f63b5922b6031af142d79d8958dca6653e7fa501f1aa2fda5544ad44a4f593521a7927a516e99579406a23a187045
+  size: 15060263
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/BAscRYKm/versions/pi3f4er3/chipped-forge-1.20.1-3.0.7.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/ferritecore-6.0.1-forge.jar
+  hash:
+    sha1: 417fb6ce8f52abf40bd9d0390371790f9576f8ba
+    sha512: a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c
+  size: 123034
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/MysticalAgradditions-1.20.1-7.0.10.jar
+  hash:
+    sha1: 6c70aa5768bede559a131c73ba8a58af38af646d
+    sha512: b1c67248346c09b66e1107f8b3c942d1b65cbf011491649240469a874b0b959e3bf05333407657c3e114e219017a4b7fe0928866729ea45698ca80ae8e71eaac
+  size: 335047
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/pl0jGXIx/versions/7jm2tULG/MysticalAgradditions-1.20.1-7.0.10.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/clientsort-forge-1.3.3+1.20.1.jar
+  hash:
+    sha1: 5d3436613c85a3a8e807496c4792178488de8a8b
+    sha512: 598279c82018dc51350a92b34b81558089633080bcbc5a11d69374270163321340d17885826966502963aecb7dc6edc16af43c98cb1487e6456ff56c67cc967a
+  size: 106297
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/K0AkAin6/versions/tDCJi2Ej/clientsort-forge-1.3.3%2B1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/TreeChop-1.20.1-forge-0.19.0.jar
+  hash:
+    sha512: ef5547a56443e1cd086386082447262b868d91f3cc68e3ff94a797b0ada84d86a5b148a94f940e6365e40a8952d776cd81682f02c2d840205c8f8835b090b3f2
+    sha1: 15908d3a913d8f9f5a7e1ae6a781a1caf15830bc
+  size: 517162
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/gHoB7SHO/versions/rhBPK6sB/TreeChop-1.20.1-forge-0.19.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar
+  hash:
+    sha1: bb422d5626bf69841e444a3e545c8e71b6928cf8
+    sha512: 4067ef8d94fd4022a5f4feb02250d86c96ab10867f526c64e7e02a409ac6d46fbc32e87ffd735b1203f328d147c291e4a8dda1288c1deb3e232a1e5cb13701fb
+  size: 568608
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/oY2B1pjg/versions/F06DXCMX/rubidium-extra-0.5.4.4%2Bmc1.20.1-build.131.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/betterarcheology-1.2.1-1.20.1.jar
+  hash:
+    sha512: 1b1483ae31f42f687915c964cbd07b1f165e4ffa55aec23370f7f0efcb61f78f16a3ef8d6edbc2f4812524f22cc969a8f0d7cd2e2a6b5edf6959342526deaeb1
+    sha1: c2cb928bef1c1aa89e90e72b8544b885aceb5d01
+  size: 982838
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/zCh7omyG/versions/vsqxpUo3/betterarcheology-1.2.1-1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/storagedelight-25.03.09-1.20-forge.jar
+  hash:
+    sha1: da642a2abe762ce67ce6ed5733d78d359e2cae28
+    sha512: 77a00dee5b7ab32f051431e740c2cb8b1e558a2d619edb06eea7c505aafefafde72fcb6e23d15a738098599973f5ca8e4b451098e27f07eb8a02bf6c888e1ec0
+  size: 436261
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/LTTvOp5L/versions/MQRlqk7K/storagedelight-25.03.09-1.20-forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/starlight-1.1.2+forge.1cda73c.jar
+  hash:
+    sha512: cc89c6b2dd0db709586028c7732a57a3e6184f19cc2b98b25964c720c3ab434031e62de23e0dab022575d637b5e4a34b5813164d32ec356d56588da400e7d026
+    sha1: a915880c7834a0b0f9f300f0e3053deaa9a3205a
+  size: 110583
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2%2Bforge.1cda73c.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/rechiseled-1.1.6-forge-mc1.20.jar
+  hash:
+    sha512: 2be090e73f8ded2c140d277a1997020286f344ecb2e87e762e0d9ce5d29e9f158381c0100e257136dd2460e2e320cbeed956f656d4b36e58040b9bb07517935e
+    sha1: cacec8ace7987d33e76873bf574704aea7564a4e
+  size: 3600460
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/B0g2vT6l/versions/C384ujVf/rechiseled-1.1.6-forge-mc1.20.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/XaeroZoomout-Forge-1.20-1.1.0.jar
+  hash:
+    sha512: 2899694aeb0220c9a62c85c45b216a2fb38cbdb2d5ce3e801228338d4384ad3b6e576786b8602e68db84993c160f6efbcb488345fa580de51822c7722f48ac3f
+    sha1: df81b6b8ad33119b267089c32372eeb4b907e63e
+  size: 32691
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/T6oqPfxF/versions/Njq4wNB7/XaeroZoomout-Forge-1.20-1.1.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar
+  hash:
+    sha512: 94d8744dc8fac0b68508eb398ba3c16ef83750b6bb21a917e112df43058a4a9cc4aefc798d2e2f9e0ca81755812a0b2e422c1631a60f651cee514c03e9a4fe60
+    sha1: 1e8d8e9688a04df5177a46036d6f34c83194686c
+  size: 864398
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/mEEGbEIu/versions/W9C2CFxo/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/TravelersTitles-1.20-Forge-4.0.2.jar
+  hash:
+    sha1: 64a435eaa6e08fff5af2c720c3b6a40fe292f2f7
+    sha512: 7cafbfc39305f3e384468db674e350118950201ba4d22b66ed95516a335aaad04765ae1e693b223c6c5beba404fc7411e9f78b4f962d7d9e51407b55233375a4
+  size: 228191
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/JtifUr64/versions/oUSK4sOQ/TravelersTitles-1.20-Forge-4.0.2.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/entityculling-forge-1.7.4-mc1.20.1.jar
+  hash:
+    sha1: f68ae39bd2a78d405a193757fd328a60ceea0323
+    sha512: b9d36a1320dbe41deec4b19b292b6936c3b9f699621beb148330e7dd8b4d63e9107967a6bcd658d89db69e953d8690c33ce686dc17f37862be7e53f200f987c0
+  size: 75290
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/NNAgCjsB/versions/kMC7OLoZ/entityculling-forge-1.7.4-mc1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/emi-1.1.22+1.20.1+forge.jar
+  hash:
+    sha512: fcc80ee419a96682d157e8fd0993e0f13031dafc6399dabb17b9696636e791a903e7d3d15131edd3b533544454f072c4b19e92b146c80d4be6980bb20a0dbb7b
+    sha1: d8049d6ec86befcd100a0ff0fc8ebc289f735997
+  size: 1048567
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/fRiHVvU7/versions/WtJS5tVw/emi-1.1.22%2B1.20.1%2Bforge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/copycats-3.0.0+mc.1.20.1-forge.jar
+  hash:
+    sha512: fbe3273c7288e52ed0d506509ae2113197580270ae229c60910c6d197d99317ab0f3273fffd4dd47816996142f7ad3b36085bd0f6adbe1c0a0bd688db0d1017e
+    sha1: 0f5a179740530c79b89229a748ac2dcced0973b7
+  size: 1983641
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/UT2M39wf/versions/u3FzFq67/copycats-3.0.0%2Bmc.1.20.1-forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/kotlinforforge-4.11.0-all.jar
+  hash:
+    sha512: d72707078f0c4fde78981c638ca976722f22a64ce74bdb489258790fe9886d763a7b1e0dfbc5429ddd3105d8a65d177f06242dfb1457e219e56c70dd3e8cbf2c
+    sha1: 1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5
+  size: 7193768
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/wooden_armor-forge-1.1.1.jar
+  hash:
+    sha1: b425265c39f6fba12e135222532cc4c182a1a59a
+    sha512: 101fff10c8f1376a383257f6e726f66574b84f9979e039bf638fc6506569e12ebb220a699b63801a7daf5840653f784d32dcfdd6fdb6bf9bea8fea0be9dd6a9e
+  size: 122637
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/ZLWtJ5HJ/versions/5ufFCfEE/wooden_armor-forge-1.1.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/XaerosWorldMap_1.39.9_Forge_1.20.jar
+  hash:
+    sha512: ec9b4925125fd7438ee30e69683c842558c7f3f3743d76bbed0ef003e1761ad70ba260cce9b93dbc8e9e8fa7c9d36ce6b91c48fb499ca5b913222e0f405e648a
+    sha1: f268b46213c4c2245421f137c5f03b4164d8ab33
+  size: 948532
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/NcUtCpym/versions/yCVWJ9aK/XaerosWorldMap_1.39.9_Forge_1.20.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/fzzy_config-0.7.0+1.20.1+forge.jar
+  hash:
+    sha1: 7d8a48fbf677cd96fdd25f4dfb35557b6e37ab37
+    sha512: f08f544760b01a9c46038a85a4e768bf84c5c2492f0d8e6d022aa903a16d17029843855d388dbd5ae86c3f470e2ceb7f85c66063a9bf0d662562223abcbef5f4
+  size: 2216572
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/hYykXjDp/versions/XrCbTIGs/fzzy_config-0.7.0%2B1.20.1%2Bforge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar
+  hash:
+    sha512: 476595aacc7c66a0cf7bcd56143975122ea54ae4c5b61a232d3b0b9b1e3c013575efcc05de31a5d2c4e129542bfd8ae255a25d1486a4e08961cc4a303940fd19
+    sha1: f80f9eed728966adcfbcc848633e789645057281
+  size: 206584
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/LN9BxssP/versions/ZKor79dR/supermartijn642configlib-1.1.8-forge-mc1.20.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar
+  hash:
+    sha1: 889cd16a93764d1d6af2e2dda5bbc286a2683e7a
+    sha512: bceefeaf84dffd7386a61118d6b1c6c2107e17e7a8f4340eff2c1f0234dba0e6d8f43903521d5a70334362ab6e4069788e5b29cf42d8ee9cd4f2a98feb64112b
+  size: 619255
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/Z2mXHnxP/versions/2nUEz0zq/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/kubejs-create-forge-2001.3.0-build.8.jar
+  hash:
+    sha1: cbeb6643d1cea979a7e01c87cfb08b9210a1c393
+    sha512: 1c6fa2b3dc52683bdf124ebfc507ad5adb5f1ceb147181466be4e495bc6eab1411976911477df538369ff2529607cb73bf3b4a05a8ed2f24804f4891d7635981
+  size: 30960
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/T38eAZQC/versions/5vppyenb/kubejs-create-forge-2001.3.0-build.8.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/CyclopsCore-1.20.1-1.20.0.jar
+  hash:
+    sha1: baa5dce3eb9f8ce7967d59d06045012e846a35a4
+    sha512: d2ccef21258038e8b14ade78cb9e3683490cfdb9dbed00afcb57e124de6b67a7ee86f2113cb33b54d1a01366c06bb4aa9e54ee1fb9430cb1521ff7ebdc56587e
+  size: 909355
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/Z9DM0LJ4/versions/NxgHnMnb/CyclopsCore-1.20.1-1.20.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/NaturesCompass-1.20.1-1.11.2-forge.jar
+  hash:
+    sha1: 31ae930cdbb34e8e05e1954cfb2fee3a3813e850
+    sha512: 7a2a9e9e91f9d2093d94c42ed056bca4048f39ba45b233415b6d1874986b5848a82826873ccc2b38abccbdf5652f2e217482354c66434ed1b93df8971cb0bea3
+  size: 215119
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/fPetb5Kh/versions/Og40jCNX/NaturesCompass-1.20.1-1.11.2-forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Sounds-2.2.1+1.20.1+forge.jar
+  hash:
+    sha1: e75686799054958804d711b1b6ceef4d132764b8
+    sha512: f8195ec5f9611f9b96c5a23cfd81cb09bd1ea2721533aa768e550cf14c870b1dd384b6b04f012d0d5a09af1701d3cdc87ffad047e4ab5d2138094f60405b586c
+  size: 10974911
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/ZouiUX7t/versions/6vE02T1J/Sounds-2.2.1%2B1.20.1%2Bforge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/comforts-forge-6.4.0+1.20.1.jar
+  hash:
+    sha1: e7b9fe89566bb1ee013e33745f22f309f679536e
+    sha512: 5f8bc01de36814bbea454ad306efd6b7ae9de933117fe8c1197a13454804e4b71ddd0685a24ace45b81527a8489d4081f7e75b6c5d3f7d7c8f791520407fac09
+  size: 382083
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/SaCpeal4/versions/gBDsc134/comforts-forge-6.4.0%2B1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/stevesrealisticsleep-forge-1.11.2+mc1.20-1.20.1.jar
+  hash:
+    sha1: 1af87505101ea2b7403df1d33123b7159e298303
+    sha512: 788db2191a0cf15bfb21bf8128cad8b4cb0c8cf4a8684839afeabb83bf5e69e838ee86bab5390e4aa59de8126885e2a51f808a1792a544aa4414efe84d5f1faf
+  size: 357891
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/ZPywkPEo/versions/KZPBwKJd/stevesrealisticsleep-forge-1.11.2%2Bmc1.20-1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/EasyMagic-v8.0.1-1.20.1-Forge.jar
+  hash:
+    sha512: ac4bc9cbca15e4b07361a84d90357e53edb0d9e336f16138b0644545061299c51c9b4af1554fac0e5f891021035b0bcd9e4b57c39ee9188324b6bca9d63cd90f
+    sha1: 9bfb5d63ac2e03ecdab8755c968ffa25b799469b
+  size: 115947
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/9hx3AbJM/versions/W2xPEG9I/EasyMagic-v8.0.1-1.20.1-Forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/createliquidfuel-2.1.1-1.20.1.jar
+  hash:
+    sha1: d216cf52735f8e4d3594943139599f6b0b20b8cf
+    sha512: 5dec0dbd9a5c1e6b06de5c60f5d5477a595ad6ddb762f67ea3379cc195fbee68d3be87f2bccfdeb60f6edbb4b029d54e2c8b7c0d3f3967d8f42587c77683d8d7
+  size: 20245
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/sH9tXU9f/versions/SZfHDdfk/createliquidfuel-2.1.1-1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/cherishedworlds-forge-6.1.7+1.20.1.jar
+  hash:
+    sha1: d3eb588c64691c9da83460e3b2e783401d337a34
+    sha512: 473b066a5765b9205c453669e43437ac5d440d7de8a42dd4b50d97a917575740a725f825cada865ecfc02914012e78295e2e67e3161dffb8254a0e22061d65e1
+  size: 60956
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/3azQ6p0W/versions/Uwaq5LPL/cherishedworlds-forge-6.1.7%2B1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/clienttweaks-forge-1.20.1-11.1.3.jar
+  hash:
+    sha512: 104c13b316c959ec5d9305c30faecdd48a9b4684187821c72fffebc501486bdbc24f17e42137a5b8f2a0e82bc5897277733b325afe7eecfb26efdffc49a0361b
+    sha1: a607891a764722166715b0656bb6c2430e254316
+  size: 131625
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/vPNqo58Q/versions/pUepqrFU/clienttweaks-forge-1.20.1-11.1.3.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/curios-forge-5.14.1+1.20.1.jar
+  hash:
+    sha1: 452175b95ad3db6ff58bb8968f6bf7a9d1e0f480
+    sha512: 1373f95fd111c977db2f6adcef8e4eb486a2d926a3e17374692dee4ac3d65857de6446c16922b531aa5ace2c23c666a7fcc28c720b2917c1e04808d15648ba87
+  size: 398066
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/caelum-1.20.1-2.0.0.0.jar
+  hash:
+    sha1: 8b1980f2a91599aea95fecd646b8bc265df7786f
+    sha512: 0e22325ba35525201a278de0ec510c38e8c209796a5728ce625d4f57205e79bb726777915c4fe7e83664447849b5802868f213b9215ca491559af84b7e31b28e
+  size: 263769
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/Xkw3TXqP/versions/7JGuqBG4/caelum-1.20.1-2.0.0.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/appleskin-forge-mc1.20.1-2.5.1.jar
+  hash:
+    sha1: 81919356f84eab14258db98924b66c3c38e372b1
+    sha512: 3176f928fb6c60d27f5edb610ca4ab0236175404eebf32797a1ec6cdd794bb294a260231579578536d03571377e43c6181adc75d8dd2c0733f17fce4f7e636b9
+  size: 47428
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/woodenshears-1.20.1-1.5.0.1.jar
+  hash:
+    sha512: ba37b44e2a1f177d934a9085eb7aacdfe0377a91637539268a6ec2a2e6887996c85943ac0cedd7734b358ae3c66ca8f5b487963114d5a204986ccda8f6840c91
+    sha1: 67740a32375d55e62579039636aa09392f2ef79e
+  size: 12383
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/J3VVx8dO/versions/ilugphHX/woodenshears-1.20.1-1.5.0.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/letsdo-meadow-forge-1.3.25.jar
+  hash:
+    sha1: da7d934ff35f03279bee6597362f30d2aea7462f
+    sha512: 0d5a91be33599f51b04815fc795d5132612656812ee8a4fef9f5526754c1f3e7fd259dbbcbb15949e2e07664638fd6627d56bce2acaec0d0c4daae733ae6602a
+  size: 2676511
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/ra7o6Sl7/versions/phZQOZzG/letsdo-meadow-forge-1.3.25.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar
+  hash:
+    sha1: d44a8b549b27713a92d59148729bf374ff3e25f0
+    sha512: 2b4715538b2e78bd86fbd05ebd07b7da2c7fa00d6e9653f6fcfad7f1fc59edb495f54164a8e2a48ed97b1722388b11729221775d798c8de9e92fb73e07f01e14
+  size: 141744
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/OZBR5JT5/versions/4pRdDqEb/EasyAnvils-v8.0.2-1.20.1-Forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/farmingforblockheads-forge-1.20.1-14.0.2.jar
+  hash:
+    sha1: e5bbf28b04c9c74e03edb5c30c228b7ff5768a69
+    sha512: 31ca2774f395c8cb2b8d5be008319ff7eb95f3a2caf52fb991834e6349f7db149f1f73892d922e25f7bd1888eb4704d48d7684a656c61764efc751240c2ae5fc
+  size: 569518
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/4WJZr8JU/versions/d1MqlvJt/farmingforblockheads-forge-1.20.1-14.0.2.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/rechiseled_chipped-1.1.jar
+  hash:
+    sha512: f34374439f2b5d62d485930f3d9c3fde5866356b98528e5c631811fe02219bb1ee08cba70eeaa37a83b9319b7f928d089ffcaa8be437ddf0c4006cd0c72daf21
+    sha1: 5f36d3e0e2fa0e39bb7c1812653406523df448cd
+  size: 202971
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/ryYcxeeA/versions/DDN7NmiW/rechiseled_chipped-1.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/fish_of_thieves-mc1.20.1-v3.1.1-forge.jar
+  hash:
+    sha512: ab3bf32df375c58578b42aa3fabdaabaacb1d442b013a5e43c35b0e460166bd3dfc5f110ec2a119f16a2f2894e55cb60b224a72a40e42e5d7fc44c0023217a7f
+    sha1: 6940dd22fb6bd7e58ca2981c1f62ba9101c72a74
+  size: 1668542
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/BzOTnuqM/versions/wKI114KD/fish_of_thieves-mc1.20.1-v3.1.1-forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Cucumber-1.20.1-7.0.0.jar
+  hash:
+    sha512: 7c0c9cdd418d4277f08998c13047423aab3da81c7bbee3412000213e1e8edb4a3688b6c059659c1c37ae8fa27706d83c649ba78eaee568da41112b37b1d79b4b
+    sha1: d6d9c2f079eb57f90f3df63f1732cf0665e2f581
+  size: 181774
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/Rw1NrDzF/versions/lbNmT3WU/Cucumber-1.20.1-7.0.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/TradingPost-v8.0.2-1.20.1-Forge.jar
+  hash:
+    sha512: c401f6bdd7aaef623bbc5c55fbd1d33184a427ad7f89bc7713050cb7adb61346badea266009b8f9ecf3624ea3e537a4b23d7f360ecf369e9d208b2df8902777c
+    sha1: b5cfd0afd134d118124fb12f5e605574938ddffd
+  size: 123478
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/8pcjMDgj/versions/LvveFy3w/TradingPost-v8.0.2-1.20.1-Forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/TrampleNoMore-Forge-1.20.1-13.0.3.jar
+  hash:
+    sha512: 2d6c4fb8e72fcfab67cfbe99537f2708dc3fd381e1c00964efad2b882082bb7bd9c4c90907990fd79b681c235f00ee75bacb234a814a1313c0a4e0a379408500
+    sha1: 5327dea64d4b7885a0c893fa4c3766cdd193aa77
+  size: 12345
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/Bc9bwujS/versions/SyZy5nab/TrampleNoMore-Forge-1.20.1-13.0.3.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/kubejs-forge-2001.6.5-build.16.jar
+  hash:
+    sha512: 819f730d2a9d980bb246d30d67793f06f6a1608381c7ce3577cf25e70dd3d595271f8fcfbf3ae037168842f660e79e49846756bd18c79793b310ff18ab826cbd
+    sha1: 93fcf0eacc5dc08a4f719eaaed1dc93f0dc80f66
+  size: 1654660
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/umyGl7zF/versions/g5igndAv/kubejs-forge-2001.6.5-build.16.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/oceansdelight-1.0.2-1.20.jar
+  hash:
+    sha1: 32af985453bde77bfa56d59cdfb11cab5662c8e1
+    sha512: 64ba0396d7168c73c810c8aefc135eebd7c2d5780e482fb36e96de87d0f226625b3ebb4249372b896ededa335895efda5d134846522e2e45c0a8d3a97ae2bf93
+  size: 90353
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/DGiq4ZSW/versions/9jLLNENb/oceansdelight-1.0.2-1.20.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Explorify v1.6.2 f10-48.jar
+  hash:
+    sha1: f04907ed21f6239f90031cfe1d79b43e3ef76cb9
+    sha512: 3d9ec324a1cbe4d98bb4b47bea721e1b629e11ba9b2c07d6da7a844b941f2ce71092edfbe56c62c8e14c7eda15652986de464b80ececb22334181510f374ccbb
+  size: 974818
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/HSfsxuTo/versions/yRSH0sWM/Explorify%20v1.6.2%20f10-48.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/fabric-api-0.83.0+1.20.1.jar
+  hash:
+    sha512: 13b5d10a07d3f51db39fe785be5bc921fd78ba7aea3f24b958176258ce54baca16c65d8527729c4a6bc7fdab2818d7ad7efea9f63bcb396af9d39c3db935128c
+    sha1: 26ca3122ef4186e55fd853d29008275a0de81ff9
+  size: 1974601
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/P7dR8mSH/versions/rSrmGeeJ/fabric-api-0.83.0%2B1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar
+  hash:
+    sha512: a3bb0272c0a1a3be9250dfee030bb8f86217fa6a32bd534be8c940fdd8c466c800c2df85874877983ced36ecfc28c8ced6c0d42107c1ab621385b4be9a7c65eb
+    sha1: d751153e722a4e014691c83f39f5b07c6ec5333c
+  size: 76237
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/actuallyharvest-1.20.1-1.1.3.1-FORGE.jar
+  hash:
+    sha1: 57755f141c46cf958f46aa6eef3d685033816675
+    sha512: 548569ba612ae5da7bf315a2dab94f383989f9f80e45a01a64a99924c70be85d7aee55239c9634ca2d04c7ca4816e65a502124a110945daf3ce1d5620a3b9bfd
+  size: 345415
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/sUbuUC7R/versions/U0P9RdjX/actuallyharvest-1.20.1-1.1.3.1-FORGE.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/woodenhopper-1.20.1-1.6.0.1.jar
+  hash:
+    sha512: aadea30c3afa9bacef12ea4c4d978b17bb16bbefd38e2f6a81cce2d3d1d4ca5824dff13abd1ebc2860187c76529ce8b94d4ae70b51b249ab565fa45bfd51ed70
+    sha1: de3f0e3ab943861aa0fc385dee8f6b1f1111899b
+  size: 42531
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/VOUy9bAs/versions/pLSXXFEn/woodenhopper-1.20.1-1.6.0.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/ImmediatelyFast-Forge-1.5.0+1.20.4.jar
+  hash:
+    sha1: 653fb9d1ce673b9987b18dfc0a9db4b9cb48d1de
+    sha512: ec94ad253be05774b9fb8b67587929fb953c3fb4cbd835180eb2797ebab2bc71656f2c5644321107e862bee16985d50bbb833909a6ac07ff06cb842c0bde8d83
+  size: 428350
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/5ZwdcRci/versions/xNaL38Bs/ImmediatelyFast-Forge-1.5.0%2B1.20.4.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar
+  hash:
+    sha1: f6ffd20b9825c4a69d93af7caed701a60bf804b5
+    sha512: d23b4526f80ed88b9253b4cb28f9f2675744dcabfee9e19f3e33f5870b84b7fa1e3104ff1201d0b4408d6a8354195cbedee1ed42100c9778e1ffd32ddab5e55e
+  size: 22381010
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/HXF82T3G/versions/jxUqRzSD/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Chunky-1.3.146.jar
+  hash:
+    sha512: 13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9
+    sha1: 0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50
+  size: 341451
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/fusion-1.2.7b-forge-mc1.20.1.jar
+  hash:
+    sha1: b2b22926e3a4aabb0638837caf620759ca97e7d3
+    sha512: 2a2aa0c2fb88af0fa31ce0c94965b0d85292157d9dedf792ac65998f93204d67858b5d7b865c21b804423eae5b334a819cbfa56ebb879658442519f40e32502c
+  size: 540383
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/p19vrgc2/versions/2d50nhi5/fusion-1.2.7b-forge-mc1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar
+  hash:
+    sha1: d37e1148b512c67cee704635b4f07d1f9ea8c31c
+    sha512: dedde27b0e1cd24c006c840bf4d0028689670f1fe9cbde16134e7c08cce58a88f431b39346b7a6847348cafec09638b2c14b2e6dcb4c14a23127e90c5ba9d362
+  size: 515362
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/rOUBggPv/versions/VWJoqHin/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/pamhc2foodextended-1.20.4-1.0.1.jar
+  hash:
+    sha512: 1bac0ab9d2573efd2aafb92ec5acf7d878cbae2345160d03312f876fcf6a32886ceb2bbd17c92975874ad454ddcfaffffd9a4bc54e8d8b8e77d4ca9d30185e2b
+    sha1: 5939df90ec025f90e502d6e735081103860bbd0f
+  size: 2062882
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/bdPeAbPS/versions/ZHPzQtqH/pamhc2foodextended-1.20.4-1.0.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/IntegratedTerminals-1.20.1-1.6.7.jar
+  hash:
+    sha1: 2b1012f36e8c922f1c8d9499b805633e1262ae27
+    sha512: 844195c0fc533c76d1c76ce0d8eacba0723ba821af505e802395d1c78e41675b72edc2c0bfcec27e5d7d89349a9206c43743a89e3c816dc8eae7d8cd55cf4eaa
+  size: 585601
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/HmLJoQ1K/versions/MJal7DsV/IntegratedTerminals-1.20.1-1.6.7.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/sound-physics-remastered-forge-1.20.1-1.4.13.jar
+  hash:
+    sha1: d662aa77d89d48ce254421d064476d0f15c3f11f
+    sha512: 3840428a7b9e065e380b5fc59a134e7c9aa3b46c0c491724534274eb709a1927be5ab6473a8a38f60bdb16e128174a1bae432e81e86a622b7d2b75e4aa961998
+  size: 204480
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/qyVF9oeo/versions/fqgMU03D/sound-physics-remastered-forge-1.20.1-1.4.13.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/sophisticatedbackpacks-1.20.1-3.23.18.1247.jar
+  hash:
+    sha1: 0046210f545657029c3a207b97acd7bd22b4737a
+    sha512: 5b4942ce645a597d6a5ab47a15faab0049fbc5d5094c3a0c83b75f72a75b615aa54bf8c1277696960ab1f37df19f3817717cac8543ab5a82bd1aba4faaeb903e
+  size: 924249
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/TyCTlI4b/versions/wD5cNDtt/sophisticatedbackpacks-1.20.1-3.23.18.1247.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/entity_model_features_forge_1.20.1-2.4.1.jar
+  hash:
+    sha1: 2ed40fd0bf3266e67036e5b3857da84c24b045e1
+    sha512: f6160617baabb494226d09687aed23e0cdc6de42122d1c6b038ef733990cabc2aff62b6b1e91eb42236e9e0b952dcf1cdc42c323d823f41a0e5c285f831dce65
+  size: 445642
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/4I1XuqiY/versions/p39UPPar/entity_model_features_forge_1.20.1-2.4.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar
+  hash:
+    sha1: 7da1cdf00c0ae5cad31e17f765f6ea021c8ac808
+    sha512: 5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502
+  size: 218152
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/DiagonalWalls-v8.0.4-1.20.1-Forge.jar
+  hash:
+    sha1: cada35009f4f268d1685be9ce888b610b1ae607d
+    sha512: ca0bbb39aeca6ab2bc93a4efd40ae71b3b680af25f4acbd6029384ffe64304aecf2c5722194de3616e1a963fdd8cec135282503f43c679b0e30d1a709e9ac578
+  size: 173567
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/FQgc8dib/versions/ISQPtPH5/DiagonalWalls-v8.0.4-1.20.1-Forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/BotanyTrees-Forge-1.20.1-9.0.18.jar
+  hash:
+    sha1: 895528ac9daddff96192a31f68f22c1f4f3ce493
+    sha512: 6184b419ae1106f78931d74da05b15f3b32884780b2f086b627011d5e1de930eb892fdbc813759bfdd9f53461c9fee02a95ac1875621ea9330eaa32e98083a38
+  size: 256540
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/mvs7RoIW/versions/udhfB3Ut/BotanyTrees-Forge-1.20.1-9.0.18.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/easyelytratakeoff-1.20.1-4.5.jar
+  hash:
+    sha1: 644c0938d450a15f94982602c857a989ee1c8363
+    sha512: 21490ad2524bfd094fa21ebc14c12e943a77bb90fa384ded24a83ecd40c0c579d85635b1e45a27bb38ab450279268cdb09f77d6325203f38e580775e5e5bbe28
+  size: 29913
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/3hqwGCUB/versions/JBhBlmby/easyelytratakeoff-1.20.1-4.5.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/farmers-cutting-oh-the-biomes-weve-gone-1.20.1-1.1-forge.jar
+  hash:
+    sha1: dbede4c292dfa8d9d00331feb80cdd42b15c3ef8
+    sha512: 53c536c81237a77cd6ce58918c696642a7066467da185c82275f141c7692896635ff38dbb7ac09537a694e915086e77e6d1c0a021971bfcdc40a4e7e69ed45a0
+  size: 87615
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/ickBpNUE/versions/4pcjIbg5/farmers-cutting-oh-the-biomes-weve-gone-1.20.1-1.1-forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/create_high_pressure-1.1.0.jar
+  hash:
+    sha512: ba350d99f1d3cddcf01f96a9db21921fde74600b59867a2cde2663957f966cf997a053e66bd741fc3bccb2f2dcf51b94131947a06034f3d21c53e379bb123c3a
+    sha1: 1a02f62110e1ad1636cc518fc31a9309a075e811
+  size: 149755
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/Mn8ziD0c/versions/Say8KKfn/create_high_pressure-1.1.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/xaeros_waystones_compability-1.19.2-1.20.1--1.0.jar
+  hash:
+    sha1: a5cee92bae3ebb6a95f01e972a71ca794bc60f98
+    sha512: d9ef8d5035954e9193d7ce29fbf49671dc302fc84ecfa1966f35dbef7c08ba128dc6e4a5d7ec2c8b04073231f88858e9d2c9a095f0ce92a912e1f2551c3dd2a0
+  size: 325574
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/7mLhyqIY/versions/flkS2tex/xaeros_waystones_compability-1.19.2-1.20.1--1.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Bookshelf-Forge-1.20.1-20.2.13.jar
+  hash:
+    sha1: c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5
+    sha512: 1143753a001bccb3fc84c699cc93343f1941da9b7a63d3a3b8078808262b42962f8b10a2c16ed97a49c058865a6dbaa7e85a1e8842b95039d222f06ab4ee9509
+  size: 343962
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/uy4Cnpcm/versions/tNwsir0K/Bookshelf-Forge-1.20.1-20.2.13.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/oculus-mc1.20.1-1.8.0.jar
+  hash:
+    sha1: 984f774e71790deaec674c7587bd24e0711871b2
+    sha512: 1bb4ac77400d6684347988ed298a692c2cb15cf7923693607eb8739b171a20fef7412259e9e157111d9ce21779badab386029956f7d2283a9e611722a373e9d5
+  size: 2851119
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Essential_1-3-6-2_forge_1-20-1.jar
+  hash:
+    sha512: cb39dbd5f742297985a3889a8f4eff47587e0772b8c1cdf85fdf9de2fc57fb8809e07c00a96a68da190b001b7c04101d943742d6c3c96ff3d905f31d76493c71
+    sha1: 37e44bb32e6b7294237172ec1700680c684a698d
+  size: 53505680
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/k2ZPuTBm/versions/8TEoBmEg/Essential_1-3-6-2_forge_1-20-1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/dynamic-fps-3.9.4+minecraft-1.20.0-forge.jar
+  hash:
+    sha512: 1f191098ac121b1c6da507aa2e78dadfeee709b2dbea466ecbdf9d891cf48508411ce66f34615e85aa6610cb66c9ca724f2759b69c4a3e80c84aa8b58e9cd55c
+    sha1: 8abb7fd84ccd0647f672dc7315e428f1873d8f2d
+  size: 376140
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/LQ3K71Q1/versions/QuGwcm10/dynamic-fps-3.9.4%2Bminecraft-1.20.0-forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/DenseTrees-1.20.1-4.0.1.jar
+  hash:
+    sha512: 53c016db1ce889efee47367cc899633c4d7567f230a585f25673887b2de4560227e19d5fb3fe37aa4195061a1638dbd7d512582b84c997528a4788f4cafb5b4c
+    sha1: ca1d27324f4ccbf4bab14a3f0e87ade5491cf121
+  size: 164749
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/FYTkmxDH/versions/54ATcbKY/DenseTrees-1.20.1-4.0.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/bigcontraptions-1.0.jar
+  hash:
+    sha512: 0adb0e52632706465a5fd51e3610a76a16fb37a29b306adac792a196b22a0fa227eab17f9f077edf05814a715dc9d164ef6a1a3ce7d8fb135417b3e06a4b61d8
+    sha1: 3bebfb40c2d232ac69214126012dd28106c3a917
+  size: 8540
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/jv0UKGOX/versions/1KkyaeYb/bigcontraptions-1.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/travelersbackpack-forge-1.20.1-9.1.38.jar
+  hash:
+    sha512: 7a45b4e48e5453c236c3ff65771f7e18113cb24e49fa340c4ba490e0409797bce411bf4449d6a781733460c0e4f83aee6d6237437cc38d0dcd1e1e3279670d84
+    sha1: 9bc0e2b5d0d6147cb570199048874656f7c57b80
+  size: 1173691
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/rlloIFEV/versions/B8moaK1y/travelersbackpack-forge-1.20.1-9.1.38.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Patchouli-1.20.1-84.1-FORGE.jar
+  hash:
+    sha1: e91d2e2f251375d647d592b670ea6f310c2554eb
+    sha512: d87143ae5dc979e8d65dd35ff0916077a355c503c4a906bed0d9dbe600ff0602e5296800cbdf2260d47033f664691b54e1b18a1b9835339c4e13d69fc4251f1b
+  size: 642711
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/nU0bVIaL/versions/8Qyw08ld/Patchouli-1.20.1-84.1-FORGE.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/villagergolemhealer 1.20.1.jar
+  hash:
+    sha1: e398dd5804af0d0c3b55a0ff7ab10c604fa85ae1
+    sha512: 228ae13032f12b1cf61c5c1b9edb2447665fff67106d312825d4c261892caaf760b3e1e7d2abeeb7c118e837f1422246c740a70c6e269ab23c2b2b8592e4897b
+  size: 83715
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/mKTLIOjN/versions/1wg5kwDZ/villagergolemhealer%201.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/fastpaintings-1.20-1.2.7.jar
+  hash:
+    sha1: 036137a54b8f503794cf38296ff4c7fbf2e9d5cc
+    sha512: 917595dfe0834d765751ee7272ef212df3d5077a651483b285d4e252819f56db5628e174c22a419b9038c25aa36f85bf22964e862920d2835f77bbd9baa87168
+  size: 309400
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/z3TzcquW/versions/Bvjyyy1T/fastpaintings-1.20-1.2.7.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/CommonCapabilities-1.20.1-2.9.6.jar
+  hash:
+    sha1: ae4acccec82f635445567587d93224d06e65b690
+    sha512: 80792709d759dae81a265d631e29c5b50f191aa173e45c28dfdfec628cd448fdbae9b4f208214798accf39829e792904611125eaa484a6fae6a86192d0aa40b7
+  size: 251054
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/oFXrCkDI/versions/ZJXsVWV8/CommonCapabilities-1.20.1-2.9.6.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/pamhc2foodcore-1.20.4-1.0.5.jar
+  hash:
+    sha1: 7fafd6a0c6692142b8dfb249341659f463fc9cba
+    sha512: 49f988cbe3c8f96657d93813fcd249cb7820f233c839442b5ba0b2159b0aa08c84c77995ad368490452095d47826e7e255913f537da850cdd64f5bccabb61b08
+  size: 911489
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/Z9OywhE4/versions/RLPfpN1a/pamhc2foodcore-1.20.4-1.0.5.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/IntegratedCrafting-1.20.1-1.2.0.jar
+  hash:
+    sha1: 72efd4edf46c36da3af642606672f09fa7ef4644
+    sha512: 9e88c505ac8cde86cb80ba5ddbebba13c056057c75f0f7d77508a036343f42d2a002c201b6f86f7edd7c3d81fe4e9fee6b3454400fd8e61eb2d9b6b8c1736708
+  size: 292113
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/qwpACdla/versions/qCrU4fQP/IntegratedCrafting-1.20.1-1.2.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar
+  hash:
+    sha512: fe473f1cf369ca7d75dfea0bacafc55692b2b56fe4b352a501536cb757be5da572d8423baec5cb32906a73ee40c667b599209b0e540237ce2a584df657296b37
+    sha1: e787f81ddc9e8afea8d859d57776e212ab2b6ff4
+  size: 4025908
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/i2kUe4lq/versions/om4AFhqW/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/crittersandcompanions-forge-2.2.2.jar
+  hash:
+    sha512: 210b7e2850af46dcdeb341d95bee89a30a311ab2a573d0d6269bc4fbb611e3ab122b86052cd079949d4652ba9b3e3fbe009aaa0e01367683cffc83ff35585bff
+    sha1: c456f7b907106bc8c86b05d52eaebd24c0fc4160
+  size: 1314349
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/Yd4wb5wZ/versions/acDDSIG3/crittersandcompanions-forge-2.2.2.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/IntegratedTunnels-1.20.1-1.8.36.jar
+  hash:
+    sha512: 1a29cf4090d46997101abc92b7afda3adb8e3f2467da53792988bd0b2d4f159cc82ec256c47e0482a820a35da0cdfc5c7b861e09c0596a60bf7890ebffd83fd0
+    sha1: 44f72b98543aa2ca7f36adc10bee0f0dfc853d75
+  size: 621643
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/Etqy1Omb/versions/gkQcvECh/IntegratedTunnels-1.20.1-1.8.36.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/modernfix-forge-5.23.0+mc1.20.1.jar
+  hash:
+    sha512: 484f579d0ae8f14a21cfbc462662fe1f4374dd72c1628652b90c48bb67e981028247009f5c2dec44d3c7c728a7c60e0bba01df94746b6b74b08715023bfb46b8
+    sha1: 901b9adb31fe489c5d6db76dd08b9ed29a4d5395
+  size: 870142
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/nmDcB62a/versions/OLk2pIh9/modernfix-forge-5.23.0%2Bmc1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/lukis-grand-capitals-1.1.1.jar
+  hash:
+    sha1: 1caa8835ed602d038b94c9c3ab0f765a7711e202
+    sha512: 022691a5d2e0cdea13ab6f5c44a7b66f2aa7e2ff88a19f2b0e06377b1090f84f90285f5eb182ae88ca93ae2f69c64e318a303ad1fe595c16ec3ebcaa2346951e
+  size: 11217408
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/8Lw09aLb/versions/mjleQ2qg/lukis-grand-capitals-1.1.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Oreganized 1.20.1-4.0.0.carcinogenious.jar
+  hash:
+    sha512: 3856dff01cf92da105f71251b2db4e177e40439ccc6c70e06de3cccb8a9a12e1320c3a7b5c1da43dea08c5e1e6c7a3062de03ee8bf3097d228adebe3eab090cc
+    sha1: a68091fb5ad84b1c5a121a9c3c29875805ec9ae3
+  size: 6712926
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/2FJutzEL/versions/jh3zJD7U/Oreganized%201.20.1-4.0.0.carcinogenious.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/waystones-forge-1.20.1-14.1.13.jar
+  hash:
+    sha512: b08ecce0bb47af4f88475a1c00bc06638c37ef14f4521fe1bc08937bd5667ead73a77c8f3a901a0a30bde55f26443b562f78615604b43074bc2eff8622140646
+    sha1: c0d8abb076737ba1ce3761c08e56d9a1e80ae501
+  size: 487241
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/LOpKHB2A/versions/8Mw54W1S/waystones-forge-1.20.1-14.1.13.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/PuzzlesLib-v8.1.32-1.20.1-Forge.jar
+  hash:
+    sha1: 1f24a25582fa6bb2569e32401a232ee90d34cc1a
+    sha512: f6420b4884583727ee66d7410ce5ad3ce2a5fd9aed49700ea4bba1fd944a4b63d2d3f15a3d0d64afa2ec1aa261f8ef52b6277712c7d19e6dd31ff9d9360f05ae
+  size: 1342204
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/QAGBst4M/versions/YFZdsqXl/PuzzlesLib-v8.1.32-1.20.1-Forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/ToadLib-1.3.1-1.20-1.20.1.jar
+  hash:
+    sha1: 5e72a6bd167a6947cf9fe435b0c04cb334deb58e
+    sha512: faad589347e48fcf676156fe1a93f4913a36e7c877881f700d0f0d7d6137beacdb839e036d1d82acf9404cd076a60129b1c57147b8d082a30784a56074e3b180
+  size: 489856
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/CYQ7VYrM/versions/UQPoMglb/ToadLib-1.3.1-1.20-1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/matc-1.6.0.jar
+  hash:
+    sha1: 72939caf824d582106b6e06e12efb7bcf35bcd64
+    sha512: 9e6278ea0bc462ceafa345413c9e155c8d782eec92985da84a5ba31843fbf38d286e12f3ff61d5ce4023c47e5b2b03b78c834d750561937ea7909ba62544259a
+  size: 29842
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/4fCwcdXD/versions/4cno74AQ/matc-1.6.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/FarmersDelight-1.20.1-1.2.7.jar
+  hash:
+    sha512: 48f0364b69f98bd30778dc675ef6e0180ca8a467dd0e2f66ef6f089f2394f4a80e4d28a6ac316a02e8d8516912f0d1a443ea405c45cf44937b00a9d89c48faf9
+    sha1: 0e614a93c6520d7b4e6714ba110daa416f07c716
+  size: 2954263
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/R2OftAxM/versions/NcRp00OO/FarmersDelight-1.20.1-1.2.7.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/TerraBlender-forge-1.20.1-3.0.1.10.jar
+  hash:
+    sha1: b3dbaf1aac31601b9efb19e4c67646750041968a
+    sha512: 69b819eb021032561626cf436635c31dced45baae6ef9f21d95690e1e57c55914dc72a43a4ccd0a3337cd32e89ff592056be8dc6b7bd12842438500a157a6275
+  size: 107533
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/kkmrDlKT/versions/zGconCHG/TerraBlender-forge-1.20.1-3.0.1.10.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/everythingcopper-1.20.1-2.3.4.jar
+  hash:
+    sha512: d0341b1f26bbaeb79e82c2569fc2789c76a9b907a7dff25834c4004ce0233e03cfaafa0941c5f07ae4a08d2f0fc1cabc16553f501d6600bc1369f53fef6f42d7
+    sha1: a02780676072eb965def5d45f7b19f1dd1e685e2
+  size: 735125
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/73MCa9Po/versions/ijrOeHx2/everythingcopper-1.20.1-2.3.4.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/BadOptimizations-2.2.2-1.20.1.jar
+  hash:
+    sha512: df830eefa6143399e5d6c0590f029c5794578c6ec30a7b6cc868dd237a7ad99ecc327e18820dac50296534c7a5688d9ca474e2eecaf6c1835bc235a260a75afe
+    sha1: 04a3b472e31ab2c71ed7ae6051b718a0900302fb
+  size: 440152
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/g96Z4WVZ/versions/5kAwHDZz/BadOptimizations-2.2.2-1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/e4mc_minecraft-forge-5.3.1.jar
+  hash:
+    sha512: ee977613e14950496672635459bfc99152f0b9aaa733f34ffaaedfde3e056a4f4f159a8918526d4741f51c4fba9fc0e5fda38b4b877334541e9263c7323b4456
+    sha1: 3a3569c62fb86cb176067fc5cb2444cfa074a056
+  size: 623045
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/qANg5Jrr/versions/LH3YCVlF/e4mc_minecraft-forge-5.3.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/BuildersDelight-1.20.1-v.1.3.jar
+  hash:
+    sha1: ad9053d0711da8157f6dbe2cc7083f17fe7aa831
+    sha512: 1f2864674e4781ee73842f4e76b638ea9fca3646327ce23e963083298181fe3414a5f3a7c4669c6af2085a955065001c58d2e5979fc1579f6bb27801abc3a3fb
+  size: 4580734
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/CAASGC7r/versions/o5hPmXN6/BuildersDelight-1.20.1-v.1.3.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/DiagonalFences-v8.1.5-1.20.1-Forge.jar
+  hash:
+    sha512: 53c274fba4c750f953fd44b9edbd78306e1bf6c480ae9cf54d93146200c16602d3d3fd51f803cee734987fe7f0389f4250df1ce0785256e5dc8d202d22c4c2af
+    sha1: 3c3266729f531939a9aba47e28fe910875a78755
+  size: 182476
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/IKARgflD/versions/6eK8RyWM/DiagonalFences-v8.1.5-1.20.1-Forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/oreharvester-1.20.1-1.5.jar
+  hash:
+    sha1: 5870ac1f2f17243f265bfbf0af487c81a82d4e8f
+    sha512: 11371f850b1b6531df94043599b83a89308123113a3ca5349581eb6ae1787e151e83d368cbfb5ff9d1f1b056be930f32367608d43ae43cf7f1638e13ef332584
+  size: 60867
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/Xiv4r347/versions/nDJbf1ba/oreharvester-1.20.1-1.5.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/kubejs_mystical_agriculture-0.1.0.jar
+  hash:
+    sha1: 51e675eb21e3d8c4607a39bdaf3ef22f629f480f
+    sha512: 9cd60658fa68861984e1a829d66e27aa545fc687801a6f18b43d408f10ca795d42b3204b3ede1f398443b5dee778c06e86c7da2295d2180bf46584eea206e8e1
+  size: 30763
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/H7lr4qce/versions/i4KUrDi8/kubejs_mystical_agriculture-0.1.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/easy-villagers-forge-1.20.1-1.1.27.jar
+  hash:
+    sha1: 0419d003261f3420b0c9c0647c9ec36786e588bc
+    sha512: 726147383be22c21da82f8c780bb422f572e133cc6a688953668135ba1804b70d253106ea07cb6ab60964ce146742577ca0ab172ca39869a90146257df45c147
+  size: 413361
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/Kaov2qgi/versions/8VKoFg6e/easy-villagers-forge-1.20.1-1.1.27.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/rhino-forge-2001.2.3-build.10.jar
+  hash:
+    sha512: 4eb6a635f3eff3baa158539bd55344421cf69b15e28f7da8bf55f370a11c071f3525063a6f81b67fbfca550ad8aaab7e6208df87f65ca6ed2851edd46f032b58
+    sha1: c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1
+  size: 1798244
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/sk9knFPE/versions/uNALdylI/rhino-forge-2001.2.3-build.10.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/GlitchCore-forge-1.20.1-0.0.1.1.jar
+  hash:
+    sha1: bba0b08fe76b28b35243fee53f99d54a18153b53
+    sha512: f4d9ec11b9604f59552cbecf4099600e7adef993cff37af0badac29505bd47aa9615acd140ee808b51754b048c2d61e2f942f656ff391df1e080cbffdfec5112
+  size: 87551
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/s3dmwKy5/versions/pYPZ5MNI/GlitchCore-forge-1.20.1-0.0.1.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/naturalist-5.0pre3+forge-1.20.1.jar
+  hash:
+    sha1: 8e02c89f476d39d279d4b174d1a9137ad45cd8e5
+    sha512: 6a03e808a1cf88ef4208af58e39858ae501b0746b99c9d39273c414f9fe7db6751444c32b749beedc184deff4bfae10ed23e6143b83b03113c56320844a577db
+  size: 3806919
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/F8BQNPWX/versions/Cx95h37p/naturalist-5.0pre3%2Bforge-1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/trade-cycling-forge-1.20.1-1.0.18.jar
+  hash:
+    sha1: 5c5197922ad60d7d76f59b9b69dfe917ce7276cf
+    sha512: 17686ccd22f946eba90a68dd6b58601571a1cf1fdeb8ab277173d9e162e3937758620c362436077c1f2b9310ce53e78306baffad47d533efb6efe0251081ee3a
+  size: 84453
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/qpPoAL6m/versions/W1h55dwF/trade-cycling-forge-1.20.1-1.0.18.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/deimos-1.20.1-forge-2.2.jar
+  hash:
+    sha512: 290f1b301af5465a4b233b0b78c127a6a82446c3794ae052951ff53db0c64f56a04fff98ebe11160c0b7042847112be68ba88b2b0b1433ea1ec22cca41b26df2
+    sha1: 57986585a1b6c241c3c9fc04d06da45ef2c7e56e
+  size: 47514
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/WQaxNzFg/versions/z9bxb1zd/deimos-1.20.1-forge-2.2.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/create-1.20.1-6.0.2.jar
+  hash:
+    sha512: b97e02a8331c5f34c59e446f2c23ac554e133000fde6a13989f562db79fc8b2a309cd3ebbc3dc9cb85f5a684cc83749d12aa877a774c10f89a274a274df864ba
+    sha1: f6cb29f3db629e585005b8d87a370a8a68447c42
+  size: 18345093
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/LNytGWDc/versions/mXfmc8qO/create-1.20.1-6.0.2.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar
+  hash:
+    sha1: 67a9e1c2ff126ab54cea8e0709d178915243039e
+    sha512: 56bd11a7aca3bacb908381a668af8f5b574c5557c21370ace783d637c949802187110a4f5dc26afae4d9af74cdf64cee81d59fac3513a9bec3f921193fc938b8
+  size: 792381
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/o1C1Dkj5/versions/kPiQ6v4q/YungsBetterDungeons-1.20-Forge-4.0.4.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/athena-forge-1.20.1-3.1.2.jar
+  hash:
+    sha1: 2acee24454af859988a691f0506271a465f68f7b
+    sha512: 5a71a1c220eafbfbdb570fa204454352b48d55f238db1a5b398a8c40f6b0fbd8c09a2f6c10def330abdf3daadaa24dfa52471f8de931a93fd99dc7d85b60960b
+  size: 91808
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/b1ZV3DIJ/versions/DULOQFj7/athena-forge-1.20.1-3.1.2.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/smarterfarmers-1.20-2.1.2.jar
+  hash:
+    sha512: 2b12bbb5a494598f62c07a8b8f9b2127eda0327b59580e6dc45ffae57f2be5d4576acff4d5adf533fcd932fdbd1b4d27b761d29e93cdcd397c08a7f6f40de5de
+    sha1: 03bae1d509d5a9644bf2ef955fefb2e6b78fc861
+  size: 223368
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/Bh6ZOMvp/versions/Pg7m0oCv/smarterfarmers-1.20-2.1.2.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/xaeros-map-server-utils-1.0.1.jar
+  hash:
+    sha512: bc69acb2fa3e476c2f5efa21d66c8b0b4195c1ce9bb69d95669f1538dbe069eb1033a4cfd6500c26727f9b7bffec1dabe3d278b76fb7ef1b8f0191b5e9f636b9
+    sha1: f6f2ce42fb1ade3e9b49b993ed9a1d291dce80a7
+  size: 8876
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/YJgkgKMm/versions/SjSSCVdR/xaeros-map-server-utils-1.0.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Oh-The-Biomes-Weve-Gone-Forge-1.5.11.jar
+  hash:
+    sha512: d5f731266bd34a310dd56e869e6913b3c7a61d626eb8877f9c4178792d9521d2b76d1784e6825d2cdcf17a8cccfa08483aaaa330b960c345d0d001769618b72a
+    sha1: 03c69fce6167424ee5397c2aa00efedbbba2a099
+  size: 34400785
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/NTi7d3Xc/versions/qj6FvHC7/Oh-The-Biomes-Weve-Gone-Forge-1.5.11.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/caelus-forge-3.2.0+1.20.1.jar
+  hash:
+    sha512: 906baad404c33288d8daf8937bc6a85d3bcc03db67a4a68395b8f01eea57f773420ff97919aadb08a7618b62b0c6c3db72270f9c3af836b822385464f509cf78
+    sha1: d14e8ee892d4d8764f523ad0e89bdcfc061fb007
+  size: 40125
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2.0%2B1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/slabstoblocks-forge-1.20.1-2.3.jar
+  hash:
+    sha1: e7434bd99600733ad50b3d863bf7023143154636
+    sha512: 9d55f9fa596a16ee937d7cb6bc3124b54d733aecba07787a5d40dedef1de8cd8af2577246a767ea2cab191a3940ee958efe6461ba45730bab7f4824528898854
+  size: 160647
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/8MosnjaC/versions/hjQEVIJj/slabstoblocks-forge-1.20.1-2.3.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/MRU-1.0.4+1.20.1+forge.jar
+  hash:
+    sha1: c92d6d7cf2ffa333d64752edcde2b3c5a3e6edab
+    sha512: be202bfeb3724ff4433b51e02764c2498c36ed01229306492260c0bc2f3c62b9f8a3f500baf083210fc683723a60793db8c3e384b28e7da599806cf3c489fdac
+  size: 287393
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/SNVQ2c0g/versions/nKL4LKzM/MRU-1.0.4%2B1.20.1%2Bforge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/bucketlib-1.20.1-2.3.7.0.jar
+  hash:
+    sha512: 08e327675602359bc4544ec55857c9a2e57a4578fa30f0f56260e001a1eefe4b3d4cf7ec8cd993abf3e6bbbe3cc5cc5f4376bceada248439b8843b0b1d31ef08
+    sha1: 5140841a483c20f7fe5af712cf704aab09d69517
+  size: 152478
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/DItE655o/versions/bEavSTpp/bucketlib-1.20.1-2.3.7.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/sophisticatedstorage-1.20.1-1.3.46.1160.jar
+  hash:
+    sha1: 63436a078baf140166b3efd1e8de5f4e9a49a15c
+    sha512: 0314e3df4e6e2d9cf93d178d356d1b41aacc281a8e25836797af1babc749fb6c80f83814e812cdfa6998d88b1e43379d5e104ec1d44d3baf1df7149a8c76adef
+  size: 1614875
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/hMlaZH8f/versions/o5gEyMhF/sophisticatedstorage-1.20.1-1.3.46.1160.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/wood_cutter-2.0.jar
+  hash:
+    sha512: c72bddd20b21dadd7d7396c079d658fe52f3671fd343b4fabd416d65c9174b93fc386ead52b50797b2724198dcf9d83031f5ded123f48e39005a7b7adf0c0d20
+    sha1: 525f2d8d51f063d00c195cbe89e94756153b3208
+  size: 241898
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/M0MiYiLo/versions/hCs4Zq1s/wood_cutter-2.0.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/notenoughcrashes-4.4.7+1.20.1-forge.jar
+  hash:
+    sha512: 9128836e8bed4ff60f5569b0541a132eafa009275657c6816792b210d31b8cb9f83afc9469335f0018890484c0b744b4ad0be865ee4f89ad665eac05ca27cafb
+    sha1: 0cd0d0f49762dcaf3716e72c5e159ed9645ce468
+  size: 133125
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/yM94ont6/versions/W6W0bVtN/notenoughcrashes-4.4.7%2B1.20.1-forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/tectonic-forge-1.20.1-2.4.1.jar
+  hash:
+    sha512: 64fc99b8df17999117f3f9ef460dcac9acddc70c418d236e7a7b1d489a10ac737eaedc15c01540f0bf9e2bf51aee04f16bfb741c680370ac69f6f2ca2af24afc
+    sha1: 55412e1b8ef36cd8eabef83d47f9377e78904f65
+  size: 349125
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/lWDHr9jE/versions/ubqOXeYf/tectonic-forge-1.20.1-2.4.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/notenoughanimations-forge-1.9.3-mc1.20.1.jar
+  hash:
+    sha512: 9e6d501d6409c991d6d80474e76267ad7b8dfe91b5a8c2e7f8302726f4cf44a66e4ba4b6ff99b60f96f8cfc8cbe5e656a26dbc709aaa1cc8c9f7ae70f62491a4
+    sha1: 68e3ab1b89d39a48362a4741a50c73e7ebb2fe7a
+  size: 453719
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/MPCX6s5C/versions/a2Q3t34g/notenoughanimations-forge-1.9.3-mc1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/moonlight-1.20-2.7.2-forge.jar
+  hash:
+    sha512: defd6071bafb1caee0f99c768731660b7e5a53aa3b896c0f5e13d780eb88ba66f841f39cbe99015b14a43044c371001ec2b9fb810f5850023bf45734034670af
+    sha1: 4241ffebd75c3df690a5976ed1301a741665db9d
+  size: 909381
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/twkfQtEc/versions/uBnHFMR2/moonlight-1.20-2.7.2-forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/embeddium-0.3.31+mc1.20.1.jar
+  hash:
+    sha512: ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9
+    sha1: bb2fa8f3e493af16af9160d049f96c614a1faf2f
+  size: 1320675
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/vegandelight-1.4.jar
+  hash:
+    sha1: 28de8bba483824306c4fced98a88780db84e16fe
+    sha512: 1c32f353e585e617e32094951aa441491d2e999a816a88a8c7aa30cf8fa44a2eb471f2f03c2503f0d3297771f3099828ef162b300c19ac82b53d56304a943877
+  size: 162855
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/Na8nA0jA/versions/wuSN5dei/vegandelight-1.4.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Heracles-forge-1.20.1-1.1.13.jar
+  hash:
+    sha512: e3baefb03efa84e3e5cc8f329d81bd9b2f27a878875acf8ad9977e6a89ee173733060f40980a130970383d6f15c268f63242789d57052fe545a7ba05d5a24949
+    sha1: ca6de15e1631ccbf5463fcf3df6d3ad37aa5d6e5
+  size: 1420890
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/lo90fZoB/versions/9ZUSHiZa/Heracles-forge-1.20.1-1.1.13.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/chalk-1.20.1-1.6.5.jar
+  hash:
+    sha512: 49220d73636378eae9f55d3dbeedaddcc2afa8949dc656d1ea2c64625aeda210bee3d28e7f704d0ec652020173025235a1d6fd0ef94797409c08defac622fe57
+    sha1: e4dee75dfe5f8ca8ec21f89ff877d3564bd5c9df
+  size: 321480
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/YWGP4Y1d/versions/HA8yrJaB/chalk-1.20.1-1.6.5.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/cloth-config-11.1.136-forge.jar
+  hash:
+    sha512: 137c4af99c53d77317cbfb1cc8c49fc2761708b49d1992f51fd846960df41dde3a83519c987e081508d4ed90c603566f3d5a6cb620ad9d85b8f4de59aa9115ef
+    sha1: c65d07748acc57ceb45d53b3964368b84f34d54f
+  size: 1181413
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/entity_texture_features_forge_1.20.1-6.2.9.jar
+  hash:
+    sha1: 55c8a7db3b4ddd28485c4d2bab7381a756b771c6
+    sha512: 0d8576c785c689aa39c29f8dbee46b28c308a01a87eaa01a1d405c617b7a30be5ba1e62faeb5f212e44d50ae5a230e48815ac572adaba0c6d3a9e2df47183023
+  size: 676887
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/BVzZfTc1/versions/rGt1IuJq/entity_texture_features_forge_1.20.1-6.2.9.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/Cucumber-1.20.1-7.0.13.jar
+  hash:
+    sha512: 613ac197d59f9fb133d683ec9c86f0aa5a15305f8a872d01764abfd9a402c487cb26158688bfea30cfd75bc7dd9e218c2d0ee0dff66e551758d770e9a5b1492f
+    sha1: e2987306d878745a1ea926bdee07f8d320bfa848
+  size: 269589
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/Rw1NrDzF/versions/TLlsXNj6/Cucumber-1.20.1-7.0.13.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/chat_heads-0.13.18-forge-1.20.jar
+  hash:
+    sha512: 626e418bfab8262970533f790b76257d366b4f6ca595255dd6f6b09ba874bfcdcfad90d1a4136144efc5406c7313a7defef5e8787284ead276f7a52b4d9e5db1
+    sha1: f775daaaa9ec1b6ec4ad0c217382f9d9a3565e18
+  size: 269811
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/Wb5oqrBJ/versions/45EJNtBe/chat_heads-0.13.18-forge-1.20.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/lithostitched-forge-1.20.1-1.4.8.jar
+  hash:
+    sha512: 9688852cc13755d27be1ed174ea6a8f73af40378f0f8a7242e08a70a9f001780cbf8be4344b180e3047b41b241f61bd5c15f86631f299018ee4c9ffff58e57cf
+    sha1: b1c59f3c78bb0d859bd05152615c9cd943e99954
+  size: 470618
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/XaDC71GB/versions/GlnFzC0w/lithostitched-forge-1.20.1-1.4.8.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: mods/geckolib-forge-1.20.1-4.7.1.2.jar
+  hash:
+    sha1: 6235e9406a9715df15210779e1ed19a419a540bb
+    sha512: fb41b2cd47b46bf84d101e4d1ba78f04151b85a4767f32bc84c9629312ed41ce558cd5660ff50f435839a23c4bea04db6710d3e9f804843ab52090bce1cf7fbb
+  size: 1012500
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/8BmcQJ2H/versions/e72SjmmI/geckolib-forge-1.20.1-4.7.1.2.jar
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+
+DATAPACKS:
+  path: resourcepacks/DetailedAnimationsReworked - V1.15.zip
+  hash:
+    sha1: 1d0ac0d5d7514a3df02de06a598ae95697339a21
+    sha512: 6ac0875c11908819d05680529e450bc91195a68894c94478775529ba7ca182775597cb64ed417fc3c9832c8bd23e06f6e19da2cffe0dd7799a81815ce1653fed
+  size: 116175
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/9pR04wDX/versions/dFBidLNv/DetailedAnimationsReworked%20-%20V1.15.zip
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: resourcepacks/Create Touch-Ups v1.0.zip
+  hash:
+    sha1: 44bd7c82f3af9c55e810fe9c44c9d0deeed26e40
+    sha512: 44a9779a5e0df6cbf10828dc7176eea73b380fb858b6a70ab5acb75b6a6a3d827cf8f619fb196bbfc697afc2f6e709b199446f8488bc894bffea7dd26dbd77fb
+  size: 150044
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/BmapKTHd/versions/FDgkXf7n/Create%20Touch-Ups%20v1.0.zip
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: resourcepacks/UniqueDarkRefined 1.20.1 (free).zip
+  hash:
+    sha512: e753883a8ea966fc04df853685bbbf737db28ef4f348e9d9e08571388ea50b5940a617db494f931dfe15453cfd302b01afdcfa7d2a246fd0636da13681f1a4a8
+    sha1: 5e4fa287c3ecc4fbd41c1eb2108eb4e689adc5c5
+  size: 6601049
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/9NXbHzs3/versions/w9BBuKIp/UniqueDarkRefined%201.20.1%20%28free%29.zip
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: resourcepacks/Fancy Crops v1.1.zip
+  hash:
+    sha512: 2d7b2df65f7c13ee6eac20308eceb8a614f4bd1aad20504fb3a656a4b68fe9b8043a88179d2f88a63ba7a6239e4b4d364630de30fe2ea587ddd3d9df12158176
+    sha1: cadbd07953bd3b673a3e951ec94acc8fe81066c2
+  size: 63280
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/UGEVQ6t9/versions/J47fJlYS/Fancy%20Crops%20v1.1.zip
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.4]§0.zip
+  hash:
+    sha512: 8c186808657b30fada7c0f7f11e32a548ebdbd800f29e6ff1c4f3951e247098a609f654cf43f922d35563efdb656327a305d11b848c4f1777ada34ad0a9d44a6
+    sha1: 31c37baceb464f8ec071b31f4e403be3e813c0a6
+  size: 151059
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/pfnQDIWs/versions/Fj6HIdVH/%C2%A7eTorches%C2%A78-%C2%A7eReimagined%C2%A70_%C2%A78%5Bv1.4%5D%C2%A70.zip
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: resourcepacks/Rustic 1.3 [1.20].zip
+  hash:
+    sha1: afe773300a0381cdc91bdc8434863466f4af8ae9
+    sha512: 42549c8ed4283e44492ca75824b63fa83849b24a1277c490f1d3c0f2c8554ec18f5c655a516b3dcbb0d465ef3394dcb9f8e6ca8c7e1d17ecd8d3ffa0e2ef251a
+  size: 168215
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/uL4WlbKR/versions/sBrMpmTY/Rustic%201.3%20%5B1.20%5D.zip
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: resourcepacks/Simple Grass Flowers v1.9.5.zip
+  hash:
+    sha512: a3433c47360476a004d46c9ac4ae956037edd3549789e6c6c044ac451f50c99b5dd820ef4e9f7779c5eb21e5c181c5acad408588a9aa80f6fe856e54fc82ff07
+    sha1: 2f430322ca2afdee2962180a23a577bbb7dea240
+  size: 187196
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/ti9KkMHm/versions/JDKDkDow/Simple%20Grass%20Flowers%20v1.9.5.zip
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: resourcepacks/Rustic x Simple Grass Flowers 1.0 [1.20].zip
+  hash:
+    sha1: 2a30027451fdd0bb6476e30e138b45b9e8bc09aa
+    sha512: d681d8cd22dfe61c227d8c8b20bd45fc669dbbea2b186bb4844b840bb0c9149d6a2c485bdfe041346404e41f74604a74d12df09e2001e89bceb78962f55d9eab
+  size: 33231
+  env:
+    server: required
+    client: required
+  downloads:
+    - https://cdn.modrinth.com/data/dkTP6qCC/versions/542dp92m/Rustic%20x%20Simple%20Grass%20Flowers%201.0%20%5B1.20%5D.zip
+  metadata:
+    project_id: 
+    version_id: 
+    required: True
+  path: resourcepacks/FreshAnimations_v1.9.2.zip
+  hash:
+    sha512: 97a387112a5a94b0e7f4d0d2439977a9f28579303ad883ed3d0fcc3277357f8b3ab2418960f698d1a5f435903e0b2f82716fc92f8500cac090f900b2d2135dcf
+    sha1: ff18e6a762b87d7e8bad0726ac7d9c153306c6d2
+  size: 516256
+  env:
+    client: required
+    server: required
+  downloads:
+    - https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip
+  metadata:
+    project_id: 
+    version_id: 
+    required: True

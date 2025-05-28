@@ -1,7 +1,7 @@
 === MINECRAFT MODPACK ANALYSIS ===
 
 [METADATA]
-name: Wild Nature
+name: example pack
 version: 
 author: 
 description: 
